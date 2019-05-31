@@ -1,5 +1,5 @@
 # Autokemp
-My chidhood attempt to combine Pascal and Assembler to create a strategy game. Sources are probably highly unoptimized but probably compilable. I am not sure :blush:
+My chidhood attempt to combine **Pascal** and **Assembler** to create a strategy game. Sources are most likely highly unoptimized but probably compilable. I am not sure :blush:
 
 <p align="center">  
   <img src="Doc/src_0.jpg">
