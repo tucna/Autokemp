@@ -13,7 +13,6 @@ My chidhood attempt to combine **Pascal** and **Assembler** to create a strategy
 - Game data are loaded from the external files.
 - There is a minimap, several objects to place and easy way how to extend its list.
 - The game supports scrolling.
-- Maps are saved in my original format which is by coincidence quite similar to `RLE`.
 
 # Screenshots
 <p align="center">  
