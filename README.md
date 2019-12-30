@@ -5,7 +5,7 @@ My chidhood attempt to combine **Pascal** and **Assembler** to create a strategy
   <img src="Doc/src_0.jpg">
 </p>
 
-- Sources code is in Czech language.
+- Source code is in Czech language.
 - Binaries can be run using [DOSBox](https://www.dosbox.com/)
 
 # Features
